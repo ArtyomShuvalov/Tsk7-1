@@ -11,4 +11,5 @@ for bird in birds:
         print("wolf isn't a bird, remove it")
 
 birds.remove("wolf")
+
 print(birds)
