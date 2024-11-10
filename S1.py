@@ -1,4 +1,4 @@
-greeting = "Hello, it's Evgeniia" #string
+greeting = "Hello, it's Marilaura" #string
 print(greeting)
 
 print("Some simple calculations")
